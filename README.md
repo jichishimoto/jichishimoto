@@ -20,7 +20,7 @@ From a ドロップアウト to a doctoral candidate 👨‍🎓, The path that 
 - **Cultural Exchange**: Would love to collaborate on projects that bridge cultural gaps or promote understanding.
 
 ## 📫 Connect with Me
-- **Twitter**: [@jichishimoto](https://twitter.com/shimotoj)
+- **Twitter**: [@shimotoj](https://twitter.com/shimotoj)
 - **Email**: jichishimoto [at] gmail.com
 ---
 **Note**: This `README.md` is a window into my journey and aspirations. Feel free to connect and collaborate!
